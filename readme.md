@@ -1,6 +1,8 @@
 # Controle Financeiro Pessoal
 
-Aplicação de controle financeiro pessoal desenvolvida com HTML, CSS e JavaScript puro.
+Aplicação de controle financeiro pessoal desenvolvida com HTML, CSS e JavaScript.
+
+![Captura de tela da aplicação](controle-financeiro.gif)
 
 ## Funcionalidades
 
